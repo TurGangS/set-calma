@@ -12,7 +12,7 @@ Kisisel discordum: turgangs
 = etc. sonra eklerim
 
 ## Controls
-- `B` → Default Toggle Oto Ayrilz
+- `B` → Default Toggle Oto Ayril
 - `V` → Default Toggle Otospawn
 
 ## License
