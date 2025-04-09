@@ -2,6 +2,9 @@
 
 
 1.19.2 icin mavi bugdayda kullanilmasi uzerine yarattigim acik kaynak client tarafli set calma modu.
+Discord Sunucumuz: https://discord.gg/aGd2D3Ajt8
+Kisisel discordum: turgangs
+
 
 ## Features
 - Oto Spawn / Oto Ayril
@@ -9,7 +12,7 @@
 = etc. sonra eklerim
 
 ## Controls
-- `B` → Default Toggle Oto Ayril
+- `B` → Default Toggle Oto Ayrilz
 - `V` → Default Toggle Otospawn
 
 ## License
