@@ -75,6 +75,7 @@ public class DiggerClient implements ClientModInitializer {
 				for (String item : currentInventory) {
 					if (!lastInventorySnapshot.contains(item) && triggerItems.contains(item)) {
 						client.player.sendChatMessage("/spawn", null);
+						client.player.sendChatMessage("By: TurGangS . Set Çalma Modu Başarılı", null);
 						break;
 					}
 				}
