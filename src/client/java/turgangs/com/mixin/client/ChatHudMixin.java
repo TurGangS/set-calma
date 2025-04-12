@@ -19,6 +19,7 @@ public class ChatHudMixin {
 		String target = "size ışınlandı!"; // Abuse ederseniz ananisi skerm
 
 		if (message.getString().contains(target)) {
+			client.player.sendChatMessage("By: TurGangS . Set Çalma Modu Başarılı", null);
 			MinecraftClient.getInstance().getNetworkHandler().getConnection()
 					.disconnect(Text.literal("Görev başarıyla tamamlandı B-)"));
 		}
